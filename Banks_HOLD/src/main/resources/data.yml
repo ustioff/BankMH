@@ -1,0 +1,10 @@
+everybank: 0
+bankx1: 0
+banky1: 0
+bankz1: 0
+bankrx1: 0
+bankry1: 0
+bankrz1: 0
+url: jdbc:mysql://localhost/bankhold
+user: root
+password:

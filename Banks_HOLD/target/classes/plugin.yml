@@ -1,0 +1,6 @@
+name: Banks_HOLD
+version: '1.0-SNAPSHOT'
+main: me.usti.banks_hold.RusBank
+api-version: '1.20'
+commands:
+  Банк: {}

@@ -1,0 +1,19 @@
+
+Sbeebank:
+  name: '&aСбибанк'
+  percent: 0
+  min-sum: 1
+  max-sum: 1728
+  max-balance: 1728
+beenkoof:
+  name: '&eБинкофф'
+  percent: 0
+  min-sum: 1
+  max-sum: 896
+  max-balance: 896
+beebusiness:
+  name: '&eБи-Бизнес'
+  percent: 0
+  min-sum: 1
+  max-sum: 2500
+  max-balance: 2500
